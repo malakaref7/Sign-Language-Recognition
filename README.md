@@ -22,23 +22,6 @@ The Sign Language Recognition Project uses deep learning techniques to recognize
 
 The dataset used in this project is the [ARASL Database](https://www.kaggle.com/datasets/cherryshad0/arasl-database-54k-final). This dataset contains images of 54,000 sign language gestures, providing a comprehensive foundation for training and evaluating the recognition model.
 
-## Project Structure
-
-The repository is organized as follows:
-
-Sign-Language-Recognition-Project/
-├── code/
-│ ├── AR Detection.ipynb
-│ ├── ARL_Modelll.pkl
-│ ├── A_CAM.ipynb
-│ └── MAKE_DATA.ipynb
-├── Ai platfroms Report.pdf
-├── HANDSPEAK PROJECT.pptx
-├── README.md
-└── datasettrial.csv
-
-bash
-Copy code
 
 ## Installation
 
@@ -51,8 +34,6 @@ To get started with the project, follow these steps:
 Install Required Libraries:
 Make sure you have Python and Jupyter Notebook installed. Then install the necessary Python packages using pip:
 
-bash
-Copy code
 pip install -r requirements.txt
 Download the Dataset:
 Download the dataset from Kaggle and place it in the project directory.
@@ -85,8 +66,6 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-markdown
-Copy code
 
 ### Explanation:
 - **Introduction**: Brief description of the project and its goals.
@@ -99,4 +78,4 @@ Copy code
 - **Contributing**: Information on how to contribute to the project.
 - **License**: Licensing information.
 
-Make sure to update the repository URL and any paths or filenames if they differ from those mentioned. This 
+Make sure to update the repository URL and any paths or filenames if they differ from those mentioned. This README provides a comprehensive overview and guides users through the process of setting up and using the project.
