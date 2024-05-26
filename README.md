@@ -6,7 +6,6 @@ This repository contains the code and resources for a sign language recognition 
 
 - [Introduction](#introduction)
 - [Dataset](#dataset)
-- [Project Structure](#project-structure)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Results](#results)
@@ -77,5 +76,3 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 - **Files**: Description of key files in the repository.
 - **Contributing**: Information on how to contribute to the project.
 - **License**: Licensing information.
-
-Make sure to update the repository URL and any paths or filenames if they differ from those mentioned. This README provides a comprehensive overview and guides users through the process of setting up and using the project.
